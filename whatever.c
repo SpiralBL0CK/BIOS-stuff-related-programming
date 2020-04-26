@@ -2,8 +2,7 @@
 #include <efi.h>
 #include <efilib.h>
 #include <string.h>
-#include "shim.h"
-#include "netboot.h"
+
 
 /*======================CONSTANT DEFINITION===================*/
 static EFI_IP_ADDRESS tftp_addr;
