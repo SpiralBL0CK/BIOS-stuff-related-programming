@@ -1,4 +1,4 @@
-/*DUMBASS IN'S NOT EDK2 STACK IF GNU-EFI STACK.... SRY IF I MISGUDED U WITH THE COMMENT */
+/*DUMBASS IN'S NOT EDK2 STACK It's GNU-EFI STACK.... SRY IF I MISGUDED U WITH THE COMMENT */
 #include <efi.h>
 #include <efilib.h>
 #include <string.h>
